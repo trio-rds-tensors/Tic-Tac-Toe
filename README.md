@@ -1,7 +1,10 @@
 # 🕹️ Tic Tac Toe (Terminal Version)
-
 A colorful and interactive **Tic Tac Toe** game in **C language** playable from the terminal.
-
+## 👥 Project Team
+- Dipali Gantait
+- Sudipta Singha
+- Riyajul Saha
+  
 ## 📸 Features
 - Player vs Player
 - Terminal-based colorful UI
