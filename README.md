@@ -10,7 +10,7 @@ A colorful and interactive **Tic Tac Toe** game in **C language** playable from 
 
 ---
 
-## 🛠️ How to Compile and Run
+## 🛠️ How to Compile and Run(Programmer)
 
 ### 🐧 On Linux / Mac:
 > Make sure you have `gcc` installed
@@ -25,6 +25,10 @@ gcc Tic_Tac_Toe.c -o tic_tac_toe.exe
 tic_tac_toe.exe
 ```
 ---
+## 🛠️ How to Compile and Run(Non Programmer)
+### 🪟 On Windows (Using MinGW)
+- install tic-tac-toe.exe from release
+- open it in by a click
 ### 🧠 Game Controls
 - Player 1 is O
 - Player 2 is X
