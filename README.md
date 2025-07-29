@@ -29,7 +29,7 @@ tic_tac_toe.exe
 ```
 ---
 ## 🛠️ How to Run(Non Programmer)
-### 🪟 On Windows (Using MinGW)
+### 🪟 On Windows
 - install tic-tac-toe.exe from release
 - open it in by a click (if you get any warning from windows ignore it and **Run Anyway**)
 ### 🧠 Game Controls
