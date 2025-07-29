@@ -28,7 +28,7 @@ gcc Tic_Tac_Toe.c -o tic_tac_toe.exe
 tic_tac_toe.exe
 ```
 ---
-## 🛠️ How to Compile and Run(Non Programmer)
+## 🛠️ How to Run(Non Programmer)
 ### 🪟 On Windows (Using MinGW)
 - install tic-tac-toe.exe from release
 - open it in by a click (if you get any warning from windows ignore it and **Run Anyway**)
