@@ -4,6 +4,7 @@ A colorful and interactive **Tic Tac Toe** game in **C language** playable from 
 - Dipali Gantait
 - Sudipta Singha
 - Riyajul Saha
+- Souman Mal
   
 ## 📸 Features
 - Player vs Player
